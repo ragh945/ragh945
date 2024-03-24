@@ -4,11 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspirant DataScientist Trainee
 ------------------------------
 
+🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer 📊 Welcome to my data playground! I'm passionate about leveraging data to drive insights and solve real-world problems. Currently honing my skills in data science, machine learning, and Python programming. 🔍 Exploring the vast realms of data science, I'm diving into projects that span predictive modeling, natural language processing, computer vision, and beyond. From data wrangling to model deployment, I'm eager to tackle every stage of the data science lifecycle. 🛠️ Proficient in Python, I utilize libraries such as NumPy, pandas, scikit-learn, TensorFlow, and PyTorch to build and deploy machine learning models. Always seeking to expand my toolkit and stay abreast of the latest advancements in the field. 📈 Let's collaborate on innovative projects, share knowledge, and learn together! Feel free to explore my repositories and reach out for discussions, feedback, or opportunities. 🔗 Connect with me to embark on exciting data-driven journeys and make meaningful contributions to the world of data science!
+
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [patwariraghottam@gmail.com](mailto:patwariraghottam@gmail.com)
 * 🧠  I'm learning DataScience
 * 🤝  I'm open to collaborating on Learning new technologies and implementing them in interested projects
-* ⚡  Cricket lover
+* ⚡ 🌟 Beyond coding, I'm passionate about the sport of cricket. As an avid fan and player, cricket is more than just a game to me; it's a source of joy, camaraderie, and endless excitement.
+* 🏟️ Whether it's cheering for my favorite team in international matches or stepping onto the field for a friendly game with friends, cricket brings a sense of thrill and competition that I cherish.
+* 📚 I'm constantly learning from the strategies, techniques, and teamwork displayed in cricket matches, drawing parallels to the world of software development and problem-solving.
+* 🏆 From mastering the perfect cover drive to analyzing match statistics, cricket provides a welcome escape and a platform for personal growth and development.
+* 🔍 Let's connect over our shared love for cricket! Whether you're a fellow enthusiast, player, or just curious about the sport, I'm always up for discussing cricket, sharing match highlights, or even organizing a friendly game. 🔗 Connect with me to bond over cricket and explore the intersection of sports and technology on GitHub!
 
 <a href="https://www.x.com/i/flow/login?redirect_after_login=%2FRaghottamPatwa1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/i/flow/login?redirect_after_login=%2FRaghottamPatwa1?logo=twitter&style=for-the-badge&color=ef4444&labelColor=0f172a"
