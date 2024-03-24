@@ -1,6 +1,5 @@
-Call me Raghu
-
-          Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patwari Raghottam
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patwari Raghottam
+=========================================================================================================================================
 
 Aspirant DataScientist Trainee
 ------------------------------
@@ -37,6 +36,4 @@ src="https://img.shields.io/twitter/follow/i/flow/login?redirect_after_login=%2F
 
 <a href="http://www.github.com/ragh945"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ragh945&bg_color=0f172a&color=ef4444&line=ef4444&point=ef4444&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ragh945" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragh945&langs_count=10&title_color=84cc16&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>         
-               
-                   
+<a href="https://github.com/ragh945" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragh945&langs_count=10&title_color=84cc16&text_color=ef4444&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
