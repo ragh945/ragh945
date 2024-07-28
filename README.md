@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspirant DataScientist Trainee
 ------------------------------
 
-🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer 📊 Welcome to my data playground! I'm passionate about leveraging data to drive insights and solve real-world problems. Currently honing my skills in data science, machine learning, and Python programming. 
-🔍 Exploring the vast realms of data science, I'm diving into projects that span predictive modeling, natural language processing, computer vision, and beyond. From data wrangling to model deployment, I'm eager to tackle every stage of the data science lifecycle. 
-🛠️ Proficient in Python, I utilize libraries such as NumPy, pandas, scikit-learn, TensorFlow, and PyTorch to build and deploy machine learning models. Always seeking to expand my toolkit and stay abreast of the latest advancements in the field. 
-📈 Let's collaborate on innovative projects, share knowledge, and learn together! Feel free to explore my repositories and reach out for discussions, feedback, or opportunities. 🔗 Connect with me to embark on exciting data-driven journeys and make meaningful contributions to the world of data science!
+- 🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer Welcome to my data playground! I'm passionate about leveraging data to drive insights and solve real-world problems. Currently honing my skills in data science, machine learning, and Python programming. 
+- 🔍 Exploring the vast realms of data science, I'm diving into projects that span predictive modeling, natural language processing, computer vision, and beyond. From data wrangling to model deployment, I'm eager to tackle every stage of the data science lifecycle. 
+- 🛠️ Proficient in Python, I utilize libraries such as NumPy, pandas, scikit-learn, TensorFlow, and PyTorch to build and deploy machine learning models. Always seeking to expand my toolkit and stay abreast of the latest advancements in the field. 
+- 📈 Let's collaborate on innovative projects, share knowledge, and learn together! Feel free to explore my repositories and reach out for discussions, feedback, or opportunities. - - 🔗 Connect with me to embark on exciting data-driven journeys and make meaningful contributions to the world of data science!
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [patwariraghottam@gmail.com](mailto:patwariraghottam@gmail.com)
